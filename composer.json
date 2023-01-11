@@ -1,0 +1,14 @@
+{
+    "name": "clebermind/just-a-test",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/clebermind/just-a-test",
+    "description": "demo repo",
+    "keywords": ["test"],
+    "authors": [
+        {
+            "name": "cleber",
+            "email": "clebermind@gmail.como"
+        }
+    ]
+}
